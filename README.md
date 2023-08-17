@@ -6,7 +6,7 @@ Foreclosure happens when a lender seizes and sells a property because the homeow
 Fannie Mae acquires loans from other lenders as a way of inducing them to lend more. Fannie Mae releases data on the loans it has acquired and their performance afterwards. 
 
 ## Accessing the Data
-- For this project, I used Fannie Mae's Single-Family Historical Loan Performance Dataset 
+- For this project, I used Fannie Mae's Single-Family Historical Loan Performance Dataset. 
 - Fannie Mae provides loan performance data on a portion of its single-family mortgage loans to promote better understanding of the credit performance of Fannie Mae mortgage loans.
 - Fannie Mae requires the user to register and create a unique username and password in order to access the performance data.
 - We need to sign up for an account before aquiring the data. After creating the account, we can log in to "Data Dynamics" and download the data we need for this project.
