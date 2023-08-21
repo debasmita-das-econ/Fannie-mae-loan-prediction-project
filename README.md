@@ -1,4 +1,6 @@
 # Fannie Mae Foreclosure Prediction Project
+
+**Goal:**
 In this project, we want to predict whether or not loans acquired by Fannie Mae will go into foreclosure. 
 
 Foreclosure happens when a lender seizes and sells a property because the homeowner has not been making the required mortgage payments.
