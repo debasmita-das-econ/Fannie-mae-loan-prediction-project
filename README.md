@@ -15,5 +15,7 @@ Fannie Mae acquires loans from other lenders as a way of inducing them to lend m
 - After creating the account, we can log in to [Data Dynamics](https://capitalmarkets.fanniemae.com/tools-applications/data-dynamics), and download the data we need for this project.
 - We will be downloading "Single-Family Loan Acquisition and Performance data". The data are available by quarter starting from 2000 Q1 till the latest available date (2023 Q1 as of now). For this project, we will use the data from 2020 Q1 till 2023 Q1.
 
+## Exploratory Analysis
+
 ## Project Pipeline
 (forebearnce)
