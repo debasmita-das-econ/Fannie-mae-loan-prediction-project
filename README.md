@@ -19,3 +19,6 @@ Fannie Mae acquires loans from other lenders as a way of inducing them to lend m
 
 ## Project Pipeline
 (forebearnce)
+
+This project is inspired from [DataQuest's Loan Prediction Project](https://github.com/dataquestio/loan-prediction).
+
