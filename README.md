@@ -1,9 +1,13 @@
-# Fannie Mae Foreclosure Prediction Project
+# DS Project using Fannie Mae Single-Family Historical Loan Performance Dataset
 
 **Goal:**
-In this project, we want to predict whether or not loans acquired by Fannie Mae will go into foreclosure. 
+In this project, we want to predict whether or not loans acquired by Fannie Mae will become more than 30 days delinquent.
+
+<!---
+go into foreclosure. 
 
 Foreclosure happens when a lender seizes and sells a property because the homeowner has not been making the required mortgage payments.
+-->
 
 Fannie Mae acquires loans from other lenders as a way of inducing them to lend more. Fannie Mae releases data on the loans it has acquired and their performance afterwards. 
 
@@ -13,12 +17,16 @@ Fannie Mae acquires loans from other lenders as a way of inducing them to lend m
 - Data can be downloaded from [Fannie Mae's website](https://capitalmarkets.fanniemae.com/credit-risk-transfer/single-family-credit-risk-transfer/fannie-mae-single-family-loan-performance-data).
 - Fannie Mae requires the user to register and create a unique username and password in order to access the performance data.
 - After creating the account, we can log in to [Data Dynamics](https://capitalmarkets.fanniemae.com/tools-applications/data-dynamics), and download the data we need for this project.
-- We will be downloading "Single-Family Loan Acquisition and Performance data". The data are available by quarter starting from 2000 Q1 till the latest available date (2023 Q1 as of now). For this project, we will use the data from 2020 Q1 till 2023 Q1.
+- We will be downloading "Single-Family Loan Acquisition and Performance data". The data are available by quarter starting from 2000 Q1 till the latest available date (2023 Q2 as of now). For this project, we will use the data from 2020 Q1 till 2023 Q2.
 
-## Exploratory Analysis
+## Code
+
+
+<!---
+## Predictive Analysis
+Perform Logistic Regression
 
 ## Project Pipeline
-(forebearnce)
 
 This project is inspired from [DataQuest's Loan Prediction Project](https://github.com/dataquestio/loan-prediction).
-
+-->
