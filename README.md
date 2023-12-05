@@ -21,8 +21,11 @@ Fannie Mae acquires loans from other lenders as a way of inducing them to lend m
 
 ## Code
 
-
 <!---
+## Required Packages
+`dplyr`, `tidyverse`, `data.table`, `gmodels`,
+
+
 ## Predictive Analysis
 Perform Logistic Regression
 
