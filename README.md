@@ -23,9 +23,9 @@ Fannie Mae acquires loans from other lenders as a way of inducing them to lend m
 
 * [`col_names.R`](https://github.com/debasmita-das-econ/Fannie-mae-loan-prediction-project/blob/main/R_code/col_names.R): set column names and variable types
  
-* [`read_data.R`](https://github.com/debasmita-das-econ/Fannie-mae-loan-prediction-project/blob/main/R_code/read_data.R): read downloaded raw data sets into R dataframe
+* [`read_data.R`](https://github.com/debasmita-das-econ/Fannie-mae-loan-prediction-project/blob/main/R_code/read_data.R): reads downloaded raw data sets into R dataframe
 
-* [`prep_data.R`](https://github.com/debasmita-das-econ/Fannie-mae-loan-prediction-project/blob/main/R_code/prep_data.R): Prepares working data by selecting relevant acquisition and performance variablesof interest, renames variables, created derived variables required in the analysis, cleans data and saves working data.
+* [`prep_data.R`](https://github.com/debasmita-das-econ/Fannie-mae-loan-prediction-project/blob/main/R_code/prep_data.R): Prepares working data by selecting relevant acquisition and performance variables of interest, renames variables, constructs derived variables required in the analysis, cleans data and saves working data.
     
 * [`predict.R`](https://github.com/debasmita-das-econ/Fannie-mae-loan-prediction-project/blob/main/R_code/predict.R): creates training and test datasets, perform predictive analysis using logistic regression
 
@@ -41,5 +41,5 @@ Perform Logistic Regression
 
 ## Project Pipeline
 
-This project is inspired from [DataQuest's Loan Prediction Project](https://github.com/dataquestio/loan-prediction).
+
 -->
