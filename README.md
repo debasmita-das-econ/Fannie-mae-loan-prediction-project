@@ -1,7 +1,7 @@
 # DS Project using Fannie Mae Single-Family Historical Loan Performance Dataset
 
 **Goal:**
-In this project, we want to predict whether or not loans acquired by Fannie Mae will become more than 30 days delinquent.
+In this project, we want to predict whether or not loans acquired by Fannie Mae will become more than 90 days delinquent.
 
 <!---
 go into foreclosure. 
